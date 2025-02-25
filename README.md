@@ -1,2 +1,2 @@
 # corsql
-A python implemenation of next.jdbc
+A python implemenation of Sean Corfield's next.jdbc api
